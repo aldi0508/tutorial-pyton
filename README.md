@@ -1,2 +1,2 @@
-# tutorial-pyton
+# tutorial-python
 Untuk data analyst
