@@ -1,0 +1,23 @@
+### Command Prompt ###
+1. melihat versi python
+  python --version
+2. melihat folder di python
+  dir
+3. menggunakan python
+  python
+4. selesai menggunakan python
+  ctrl+z enter
+
+### Syntak Dasar ###
+1. menampilkan syntak
+  print()
+
+### Tipe data ###
+1. integer (angka satuan ngga ada komanya)
+  data_int = 10
+2. float (angka dengan koma)
+  data_float = 3.4
+3. string (kumpulan karakter)
+  data_str = "ucup 10"
+4. boolean (biner true/false) hanya menampilkan 2 hal tersebut
+  data_bool = 
