@@ -20,4 +20,4 @@
 3. string (kumpulan karakter)
   data_str = "ucup 10"
 4. boolean (biner true/false) hanya menampilkan 2 hal tersebut
-  data_bool = 
+  data_bool = True
