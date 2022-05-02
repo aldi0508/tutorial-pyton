@@ -30,4 +30,11 @@ print(type(biodata))
 
 ### Casting Data ###
 Merubah satu tipe data ke tipe data lain
-
+Hal yang perlu diperhatikan :
+1. int
+  - data bool akan "False" jika nilai data int = 0
+2. float
+  - data int akan dibulatkan ke bawah
+  - data bool akan "False" jika nilai data float = 0
+3. str
+  - data bool akan "False" jika nilai data str = " "
