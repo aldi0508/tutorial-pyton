@@ -8,6 +8,9 @@
 4. selesai menggunakan python
   ctrl+z enter
 
+### Comment ###
+agar tulisan yang dibuat tidak ditampilkan
+#
 ### Syntak Dasar ###
 1. menampilkan syntak
   print()
@@ -24,3 +27,7 @@
 5. Melihat type data
 print(type(biodata))
 #fungsi untuk mengecek jenis tipe data. akan tampil <class 'dict'> yang berarti dict adalah tipe data dictionary
+
+### Casting Data ###
+Merubah satu tipe data ke tipe data lain
+
