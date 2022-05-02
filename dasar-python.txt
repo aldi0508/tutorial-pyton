@@ -21,3 +21,6 @@
   data_str = "ucup 10"
 4. boolean (biner true/false) hanya menampilkan 2 hal tersebut
   data_bool = True
+5. Melihat type data
+print(type(biodata))
+#fungsi untuk mengecek jenis tipe data. akan tampil <class 'dict'> yang berarti dict adalah tipe data dictionary
