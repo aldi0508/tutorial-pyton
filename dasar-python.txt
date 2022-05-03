@@ -55,4 +55,8 @@ Hal yang perlu diperhatikan :
 5. Eksponen / pangkat (**)
 6. Modulus / sisa pembagian (%)
 7. Floor division / pembulatan kebawah (//)
-
+8. Prioritas operasi
+  - ( )
+  - Eksponen **
+  - Perkalian DKK *, /, %, //
+  - Penjumlahan dan pengurangan +, -
