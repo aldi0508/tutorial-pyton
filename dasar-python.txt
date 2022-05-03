@@ -46,3 +46,13 @@ Hal yang perlu diperhatikan :
   - output dai input user selalu dalam bentuk str
   - penggunaan input user pada data biner (bool) dilakukan dengan meng-casting data pada 'int' terlebih dahulu
     contoh : biner = bool(int(input("data boolean = ")))
+
+### Operasi Aritmatika ###
+1. Penjumlahan (+)
+2. Pengurangan (-)
+3. Perkalian (*)
+4. Pembagian (/)
+5. Eksponen / pangkat (**)
+6. Modulus / sisa pembagian (%)
+7. Floor division / pembulatan kebawah (//)
+
