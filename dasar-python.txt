@@ -10,7 +10,9 @@
 
 ### Comment ###
 agar tulisan yang dibuat tidak ditampilkan
-#
+# ini adalah komen
+""" ini adalah multiline komen """
+
 ### Syntak Dasar ###
 1. menampilkan syntak
   print()
