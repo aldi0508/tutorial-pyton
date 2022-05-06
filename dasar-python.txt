@@ -78,4 +78,7 @@ Hal yang perlu diperhatikan :
  Hal yang perlu diperhatikan :
  - Hasil selalu Boolean
  - Operasi komparasi : >, <, ==, !=, >=, <=, is, is not
- 
+ - is dan is not untuk komparasi obyek identity
+ - melihat memori
+  - id ( )
+  - hex ( )
