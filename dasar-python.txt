@@ -73,3 +73,9 @@ Hal yang perlu diperhatikan :
   F > R = 4/9 (F-32)
   K > C = K - 273
   K > R = 4/5 (K-273)
+ 
+ ### Operasi Komparasi ###
+ Hal yang perlu diperhatikan :
+ - Hasil selalu Boolean
+ - Operasi komparasi : >, <, ==, !=, >=, <=, is, is not
+ 
