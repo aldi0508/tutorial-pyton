@@ -82,3 +82,11 @@ Hal yang perlu diperhatikan :
  - melihat memori
   - id ( )
   - hex ( )
+  
+  ### Operasi Logika / Boolean ###
+  not, or, and, xor
+  Hal yang perlu diperhatikan :
+  - NOT = kebalikan data awal
+  - OR = jika ada true maka true
+  - AND = jika ada false maka false
+  - XOR = jika beda maka true
