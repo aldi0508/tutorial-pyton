@@ -89,4 +89,4 @@ Hal yang perlu diperhatikan :
   - NOT = kebalikan data awal
   - OR = jika ada true maka true
   - AND = jika ada false maka false
-  - XOR = jika beda maka true
+  - XOR = jika beda maka true (pakai tanda ^)
