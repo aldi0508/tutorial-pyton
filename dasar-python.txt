@@ -90,3 +90,9 @@ Hal yang perlu diperhatikan :
   - OR = jika ada true maka true
   - AND = jika ada false maka false
   - XOR = jika beda maka true (pakai tanda ^)
+  
+  ### Operasi Bitwise ###
+  Operasi biner atau binary
+  - Bitwise OR (|)
+  co. print('nilai = ', c, ', binary = ', format(c, '08b')) = fungsi 'format' untuk melihat nilai bitwise
+  
