@@ -95,4 +95,21 @@ Hal yang perlu diperhatikan :
   Operasi biner atau binary
   - Bitwise OR (|)
   co. print('nilai = ', c, ', binary = ', format(c, '08b')) = fungsi 'format' untuk melihat nilai bitwise
+  - Bitwise AND (&)
+  - Bitwise XOR (^)
+  - Bitwise NOT (~)
+  # Bitwise NOT (jadi negatif)
+  c = ~ a
+  # Bitwise NOT (kebalikan/flip)
+  pakai XOR (^)
+  d = 0b0000001011
+  e = 0b1111111111
+  print('nilai = ', d^e, ', binary = ', format(d^e, '08b'))
   
+  - Bitwise Shifting
+  Right (>>)
+  Left (<<)
+  
+  # Shifting
+c = a >> 2 (geser ke kanan 2x)
+d = b << 1 (geser ke kiri 1x)
