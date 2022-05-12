@@ -125,3 +125,15 @@ Hal yang perlu diperhatikan :
   # Shifting
 c = a >> 2 (geser ke kanan 2x)
 d = b << 1 (geser ke kiri 1x)
+
+  ### Operator Assigment (Penyingkatan ###
+- Operasi Aritmatika
+Co.
+  a = 5
+  - a += 5 (penjumlahan)
+  - a -= 3 (pengurangan)
+  - a *= 5 (perkalian)
+  - a /= 4 (pembagian)
+  - a %= 2 (modulus)
+  - a //= 2 (floor division)
+  - a **= 2 (perpangkatan)
