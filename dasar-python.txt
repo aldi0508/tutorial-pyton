@@ -26,7 +26,19 @@ agar tulisan yang dibuat tidak ditampilkan
   data_str = "ucup 10"
 4. boolean (biner true/false) hanya menampilkan 2 hal tersebut
   data_bool = True
-5. Melihat type data
+5. List (hasil diapit dengan kurung siku [ ] )
+list(“buku”) → ['b', 'u', 'k', 'u'];
+list((1, 2, 3)) → [1, 2, 3] = data int
+list({1, 3, 6, 3}) → [1, 3, 6] = data int
+6. Tuple (hasil diapit dengan kurung biasa ( ) )
+tuple(“buku”) → ('b', 'u', 'k', 'u');
+tuple((1, 2, 3)) → (1, 2, 3)
+tuple({1, 3, 6, 3}) → (1, 3, 6)
+7. Set (hasil data INT diapit dengan { } dan hanya menampilkan data yang unik) = pada data INT langsung diurutkan ((3,2,1)) menjadi {1,2,3}
+set(“buku”) → ['b', 'k', 'u']; = data unik didahulukan
+set((1, 2, 3)) → {1, 2, 3} = data unik didahulukan
+set([1, 3, 6, 3]) → {1, 3, 6} = data unik didahulukan
+8. Melihat type data
 print(type(biodata))
 #fungsi untuk mengecek jenis tipe data. akan tampil <class 'dict'> yang berarti dict adalah tipe data dictionary
 
