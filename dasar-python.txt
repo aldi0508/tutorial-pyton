@@ -137,3 +137,23 @@ Co.
   - a %= 2 (modulus)
   - a //= 2 (floor division)
   - a **= 2 (perpangkatan)
+
+- Operasi Bitwise
+# OR
+Co. 
+  c = True
+  c |= False (menjadi True)
+# AND 
+  Co.
+  c = True
+  c |= False (menjadi False)
+# XOR
+  Co.
+  c = True
+  c ^= False (menjadi True)
+# Shifting
+  Co.
+  c = 0b00100
+    print("nilai d", format (c, '05b')) = mengetahui format data
+  c >>= 2 (geser ke kanan 2 kali, menjadi 00001)
+  c <<= 1 geser ke kiri 1 kali, menjadi 01000)
