@@ -172,7 +172,7 @@ Co.
   co. print('ucup \bkita') menjadi ucupkita
 7. Newline
   co. - \n  = line feed
-      - \r  = carriage return
+      - \r  = carriage return = tidak bisa digunakan (jupyter) 
       - \r\n = line feed carriage return
 8. String literal atau raw
   co. print(r'c:\user\dock') = semua menjadi str
