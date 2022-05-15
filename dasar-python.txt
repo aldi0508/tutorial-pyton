@@ -126,7 +126,7 @@ Hal yang perlu diperhatikan :
 c = a >> 2 (geser ke kanan 2x)
 d = b << 1 (geser ke kiri 1x)
 
-  ### Operator Assigment (Penyingkatan ###
+  ### Operator Assigment (Penyingkatan) ###
 - Operasi Aritmatika
 Co.
   a = 5
@@ -157,3 +157,32 @@ Co.
     print("nilai d", format (c, '05b')) = mengetahui format data
   c >>= 2 (geser ke kanan 2 kali, menjadi 00001)
   c <<= 1 geser ke kiri 1 kali, menjadi 01000)
+
+### Pengenalan String ###
+1. menggunakan single quote '...'
+2. menggunakan double quote "..."
+3. menggunakan tanda \
+ co. membuat tanda ' menjadi str
+     print('ini hari jum\'at')
+4. Backlash
+  co. print(c\\user\\ucup) menjadi c\user\ucup
+5. Tab
+  co. print('ucup\tkita')
+6. Backspace
+  co. print('ucup \bkita') menjadi ucupkita
+7. Newline
+  co. - \n  = line feed
+      - \r  = carriage return
+      - \r\n = line feed carriage return
+8. String literal atau raw
+  co. print(r'c:\user\dock') = semua menjadi str
+9. Multiline literal string
+  co. print("""
+  nama ; ucup
+  umur ; 19 tahun
+  """)
+10. Multiline literal string + raw
+  co. print(r"""
+  nama ; ucup/n
+  umur ; 19 tahun/t
+  """)
