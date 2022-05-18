@@ -242,6 +242,52 @@ print("Character dari ascii code 117 : " + chr(data))
 
 4. operator dalam bentuk method
 
+# Count
 data = "otong surotong pararotong"
 jumlah = data.count("o")
 print("jumlah o di " + data + " : " + str(jumlah))
+
+# Ubah case pada string
+  1. Upper case
+     co. salam = 'bro'
+     besar = salam.upper() = semua kata menjadi kapital
+  2. Lower case
+     co. salam = 'BRO'
+     besar = salam.lower() = semua kata menjadi kecil
+
+# Method is, untuk pengecekan (harus ada tanda petiknya. contoh salam = "hahah"
+  1. isupper() = cek apakah upper case semua
+  co. apakah_upper = salam.isupper()
+  2. islower() = cek apakah lower case semua
+  3. isalpha() = cek apakah huruf semua
+  4. isalnum() = cek apakah huruf dan angka
+  5. isdecimal() = cek apakah angka semua
+  6. isspace() = cek apakah berisi spasi, tab, enter
+  7. istitle() = cek apakah huruf pertama kapital atau tidak
+
+# Startswith() dan endswith()
+cek_start = "Ucup Dfame"
+start = cek_start.startswith("Ucup") = cek awal kalimat ingat (starts)
+end = cek_start.endswith("Dfame") = cek akhir kalimat ingat (ends)
+
+# join() dan split()
+  1. join
+  co. pisah = ['aku', 'adalah', 'ucup']
+      gabung = " ehm ".join(pisah) = cara membacanya yaitu ehm digabung dengan pisah
+  2. split
+  co. gabungan = "naikehmvespaehmkelilingehmkota"
+      pisah = gabungan.split("ehm")
+
+# Alokasi Karakter
+  1. rjust
+  co. kanan = "kanan".rjust(10) = rata kanan dengan 10 karakter
+  2. ljust = rata kiri
+  3. center = rata tengah
+     co. tengah ="tengah".center(20,'-') # rata tengah dengan 20 karakter
+         print("'" + tengah + "'")
+
+# Strip() = kebalikan alokasi karakter
+co. kanan = kanan.strip()
+    print("'" + kanan + "'")
+
+
