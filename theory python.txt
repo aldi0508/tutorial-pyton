@@ -14,3 +14,9 @@ dengan baik dengan pandas.
 Jika sesuatu memenuhi suatu kondisi maka lakukanlah A, namun jika tidak maka tidak terjadi apa-apa
 i = 7
 if(i==10):print("ini adalah angka 10") = jika benar maka akan ditampilkan, jika salah tidak ditampilkan
+
+# if..else..
+Jika sesuatu memenuhi suatu kondisi maka lakukanlah A, namun jika tidak terpenuhi maka lakukanlah B
+i = 5
+if(i==10):print("ini adalah angka 10")
+else:print("bukan angka 10")
