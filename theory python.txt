@@ -20,3 +20,14 @@ Jika sesuatu memenuhi suatu kondisi maka lakukanlah A, namun jika tidak terpenuh
 i = 5
 if(i==10):print("ini adalah angka 10")
 else:print("bukan angka 10")
+
+# if..elif..else
+Jika sesuatu memenuhi suatu kondisi maka lakukanlah A, jika tidak, lakukanlah pengecekan pada kondisi berikutnya yaitu jika memenuhi lakukanlah B, jika tidak maka lakukanlah C
+i=3
+
+if(i==5):
+	print("ini adalah angka 5")
+elif(i>5):
+	print("lebih besar dari 5")
+else:
+	print("kebih kecil dari 5")
