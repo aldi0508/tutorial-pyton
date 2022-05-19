@@ -9,3 +9,8 @@ error bar plot, dan jenis grafik lainnya.
 4. Scikit-learn adalah Scipy Toolkit yang ditujukan untuk menghasilkan model prediktif dengan menggunakan machine learning.
 5. Seaborn merupakan library yang dibuat dari matplotlib yang ditujukan oleh visualisasi grafik statistik dengan warna yang menawan, dan terintegrasi
 dengan baik dengan pandas.
+
+# penggunaan if
+Jika sesuatu memenuhi suatu kondisi maka lakukanlah A, namun jika tidak maka tidak terjadi apa-apa
+i = 7
+if(i==10):print("ini adalah angka 10") = jika benar maka akan ditampilkan, jika salah tidak ditampilkan
