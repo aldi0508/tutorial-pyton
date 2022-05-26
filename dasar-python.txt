@@ -319,7 +319,7 @@ print(format_str)
 
 # bilangan desimal
 angka = 2005.54321
-format_str = f"desimal = {angka:.3f}"
+format_str = f"desimal = {angka:.3f}" = 3 angka dibelakang koma = 2005.543
 print(format_str)
 
 # menampilkan leading zero
