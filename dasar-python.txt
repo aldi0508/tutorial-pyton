@@ -359,3 +359,9 @@ format_hex = f"hex = {hex(angka)}"
 print(format_binary)
 print(format_octal)
 print(format_hex)
+
+### 19. String width and Alignment ###
+1. Enter = \n
+2. Tab = \t
+3. Kutip 3 = """ data """
+4. rata kanan = :>5 (rata kanan 5 huruf)
