@@ -365,3 +365,26 @@ print(format_hex)
 2. Tab = \t
 3. Kutip 3 = """ data """
 4. rata kanan = :>5 (rata kanan 5 huruf)
+
+### 20. If statement ###
+# IF STATEMENT
+# 1. IF INLINE
+nama = input("siapa nama anda? ")
+if nama=="ucup" : print("kamu berhasil!!")
+print("terimakasih!")
+
+# IF INDENTATION
+nama = input("siapa nama anda? ")
+if nama=="ucup" :
+    print("kamu berhasil!!")
+    print("terimakasih!")
+print("Akhir Program")
+
+# ELSE STATEMENT
+nama = input("siapa nama anda? ")
+if nama=="ucup" :
+    print("kamu berhasil!!")
+else: 
+    print("Maaf kamu gagal :(")
+
+print("Akhir Program")
