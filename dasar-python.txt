@@ -388,3 +388,15 @@ else:
     print("Maaf kamu gagal :(")
 
 print("Akhir Program")
+
+# Else Statement
+nama = input("Tulis Nama Anda! ")
+if nama=="ucup" :
+    print("Kamu berhasil")
+elif nama=="dodi" :
+    print("Kamu Hebat")
+elif nama=="mario" :
+    print("Mantap :)")
+else :
+    print("Anda Belum Beruntung :(")
+print("Terimakasih!")
